@@ -1,5 +1,4 @@
 <?xml version="1.0"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="600px" height="600px" viewBox="0 0 200 200" style="overflow:hidden!important;">
-  <defs id="SvgjsDefs1007">
-    <image xlink:href="https://raw.githubusercontent.com/lnjustin/svgtest/master/justin.svg" />
+    <image href="https://raw.githubusercontent.com/lnjustin/svgtest/master/justin.svg" />
 </svg>
