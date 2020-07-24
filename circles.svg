@@ -5,11 +5,11 @@
     </polygon>
   </g>
   <circle z-index="2" cx="20" cy="125" r="18" stroke-width="2" stroke="black" fill="gray"/>
-  <circle z-index="2" cx="100" cy="85" r="18" stroke-width="2" stroke="black" fill="gray"/>
-  <circle z-index="2" cx="100" cy="85" r="18" stroke-width="2" stroke="red" fill="none">
+  <circle z-index="2" cx="100" cy="125" r="18" stroke-width="2" stroke="black" fill="gray"/>
+  <circle z-index="2" cx="100" cy="155" r="18" stroke-width="2" stroke="red" fill="none">
     <animate attributeName="stroke-dasharray" values="56.5, 0, 56.5, 0; 0, 113, 0, 0; 0, 113, 0, 0" keyTimes="0; 0.5; 1" dur="3.5s" repeatCount="indefinite" />
   </circle>
-  <circle z-index="2" cx="100" cy="85" r="18" stroke-width="2" stroke="red" fill="none">
+  <circle z-index="2" cx="100" cy="155" r="18" stroke-width="2" stroke="red" fill="none">
     <animate attributeName="stroke-dasharray" values="0, 56.5, 0, 56.5; 0, 56.5, 0, 56.5; 0, 0, 113, 0" dur="3.5s" keyTimes="0; 0.5; 1" repeatCount="indefinite" />
   </circle>
   <text height="10" width="120" text-align="center" text-anchor="middle" x="60" y="105" class="large" fill="black">2:50 PM</text></svg>
